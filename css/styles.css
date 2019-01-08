@@ -1,5 +1,8 @@
+
 nav ul {
   list-style-type: none;
+  float: none;
+  width: 100%
 }
 
 nav li {
@@ -30,4 +33,12 @@ nav a {
 
 nav #selected {
   background-color: black;
+}
+
+@media screen and (max-width: 900px) {
+  nav li {
+    padding: 0px;
+    width: 0px;
+    display: block;
+  }
 }
