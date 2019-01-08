@@ -6,4 +6,28 @@ nav li {
   display: inline;
   padding: 10px;
   margin: 10px;
+  background-color: teal;
+}
+body {
+  background-image: url(../images/ocean-tile.jpg);
+  color: skyblue;
+  text-align: center;
+  font-size: 30px;
+}
+
+nav a:visited {
+  color: lightgreen;
+}
+
+nav a:hover {
+  color: salmon;
+  border-bottom: 1px solid black;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav #selected {
+  background-color: black;
 }
