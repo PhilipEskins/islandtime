@@ -13,6 +13,7 @@ nav li {
 }
 body {
   background-image: url(../images/ocean-tile.jpg);
+  position: relative;
   color: skyblue;
   text-align: center;
   font-size: 30px;
@@ -41,6 +42,10 @@ table.center {
 
 .right {
   text-align: right;
+}
+
+#beach {
+  position: absolute;
 }
 
 @media screen and (max-width: 900px) {
