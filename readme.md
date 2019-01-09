@@ -10,7 +10,7 @@ _Website that shows Island Time Resort with two separate branches_
 
 ## Setup/Installation Requirements
 
-* _Clone director from GitHub_
+* _Clone directory from GitHub_
 * _Open using your favorite browser_
 
 
@@ -20,7 +20,7 @@ _No bugs known at this time_
 
 ## Support and contact details
 
-_Contact Philip if you have any problems or recommendations for improvements_
+_Contact Ryan if you have any problems or recommendations for improvements_
 
 ## Technologies Used
 
@@ -30,4 +30,4 @@ _HTML & CSS_
 
 *MIT*
 
-Copyright (c) 2016 **_Philip Eskins_**
+Copyright (c) 2019 **_Philip Eskins_**
